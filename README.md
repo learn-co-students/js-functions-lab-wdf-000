@@ -6,7 +6,6 @@
 + Write a function that takes in a parameter
 + Write a function that takes in multiple parameters
 
-
 ## Instructions
 
 You'll be coding your solution in `index.js`. You can find the solutions to these exercises by checking out the `solution` branch.
